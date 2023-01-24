@@ -6,6 +6,7 @@ class Main {
   
   //main method
   public static void main(String[] args) throws IOException {
+		int a;
     //Create a file object
     File highScore = new File("highscore.txt");
     //Create a reader object to read the file
