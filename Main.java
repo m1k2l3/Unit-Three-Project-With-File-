@@ -20,7 +20,7 @@ class Main {
     }
     
     myReader.reset();
-		int c = 2;
+		String c = "s";
 		double s = 3;
 
 
